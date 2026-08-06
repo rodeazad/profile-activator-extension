@@ -1,0 +1,12 @@
+# Normalize line endings
+# Text file normalization
+*.png binary
+
+**/*.go linguist-detectable
+*.jpeg binary
+public/* linguist-vendored
+*.woff2 binary   
+*.ico binary
+*.md linguist-documentation
+*.woff binary
+public/index.html linguist-vendored
